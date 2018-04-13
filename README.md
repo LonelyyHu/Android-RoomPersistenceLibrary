@@ -8,3 +8,5 @@
 1. https://github.com/Thumar/RoomPersistenceLibrary
 1. https://android.jlelse.eu/android-architecture-components-room-introduction-4774dd72a1ae
 
+### Custom Type
+1. https://android.jlelse.eu/android-architecture-components-room-custom-types-ad6a477004e0
